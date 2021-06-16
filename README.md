@@ -1,3 +1,3 @@
 # PatternStrategy
 
-![Overall picture](C:\Users\nurik\Desktop\1.PNG)
+![Overall picture](https://i.stack.imgur.com/05vlo.png)
